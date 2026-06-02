@@ -25,7 +25,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Atualmente estou no **2º semestre de Engenharia de Software**  
+🎓 Atualmente estou no **3º semestre de Engenharia de Software**  
 💻 Estudando desenvolvimento **Full Stack** paralelamente  
 
 💡 Minha jornada na programação começou com curiosidade e hoje se tornou um objetivo profissional claro:  
